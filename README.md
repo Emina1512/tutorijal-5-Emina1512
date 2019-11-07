@@ -1,5 +1,7 @@
 Univerzitet u Sarajevu
+
 Elektrotehnički fakultet Sarajevo
+
 Predmet: Razvoj programskih rješenja 2019/2020
 
 # Tutorijal 5
